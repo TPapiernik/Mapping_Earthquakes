@@ -33,6 +33,7 @@ MANIFEST
 *.swp
 *_NAMES.txt
 config.py
+config.js
 *.zip
 Metadata/
 Starter_Code/
